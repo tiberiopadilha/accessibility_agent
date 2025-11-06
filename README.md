@@ -11,8 +11,7 @@ O que acontece:
 3. Exibe o relatório no console
 4. Pergunta se deseja exportar para JSON
 
-Exemplo de interação:
-Agente de IA - Avaliador de Acessibilidade Web
-Alinhado com WCAG 2.2 e ABNT NBR 17225:2025
+# Exemplo de interação:
+Agente de IA - Avaliador de Acessibilidade Web Alinhado com WCAG 2.2 e ABNT NBR 17225:2025
 
 Digite a URL do website a ser avaliado: https://exemplo.com.br
